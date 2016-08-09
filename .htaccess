@@ -1,7 +1,13 @@
 RewriteEngine On
 # This will enable the Rewrite capabilities
 
-RewriteCond %{HTTPS} !=on
+RewriteRule ^bulletin$ bbulletin.html [NC]
+RewriteRule ^sherpress$ sheridanpress.html [NC]
+# This will redirect ^filename$ to otherfilename.html
+
+RewriteCond %{HTTPS} off
+#RewriteCond %{SERVER_PORT} 80
+#RewriteCond %{HTTPS} !=on
 # This checks to make sure the connection is not already HTTPS
 
 RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
