@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Greg Haas for House District 40</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    
+    <!-- custom CSS and Google Fonts -->
+    <link rel="stylesheet" href="css/app.css">
+    <link href="https://fonts.googleapis.com/css?family=Assistant|Copse" rel="stylesheet">
+    
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/jumbotron.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://haas4forty.com">Haas For HD Forty</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="index.html#bio">Brief Biography</a></li>
+            <li><a href="index.html#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#hd40">House District 40</a></li>
+                <!-- li><a href="#solutions">Solutions</a></li -->
+                <!-- li><a href="#campaign">Campaign $</a></li -->
+                <!-- li><a href="#meetings">Meetings</a></li-->
+		<li role="separator" class="divider"></li>
+                 <li class="dropdown-header">Related Sites</li>
+                  <li><a href="http://www.wyodems.org/">Wyoming Democrats</a></li>
+                  <li><a href="http://wyoming.gop/">Wyoming Republicans</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2>Q&A for Buffalo Bulletin's "voter's guide/election section"</h2>
+<h4>Name</h4>
+<p>Gregory (Greg) Haas</p>
+
+<h4>Employment/work history:</h4>
+<ul>
+<li>Agricultural 1985-2002</li>
+<li>Labor 1990-2003</li>
+<li>Information and A/V Tech 1986-Present</li>
+<li>Artisan 1989-1991</li>
+<li>Mental Health 1997-2000</li>
+<li>Education 1999-2003</li>
+<li>Buffalo Theater 2003-2010</li>
+</ul>
+
+<h4>Party</h4>
+<p>Democrat</p>
+
+<h4>Biography and qualifications:</h4>
+<p>I grew up in rural Vermont. I traveled a long and winding path to the mountain west. I finished high school and college. My wife and I are raising two kids. We've also got three dogs, a cat, two fish and a horse. I try my best to help out and leave this world better than I found it.</p>
+<p>My wide range of experience has given me unique qualities and strengths particularly well suited to crafting good legislation. Those strengths are observing, communicating and considering multi-faceted issues. My ultimate interest is in solutions to real problems, not dwelling on credit or blame (although, learning from mistakes is crucial). I also have experience, as a school board trustee, working with groups to craft school district policies.</p>
+
+<h4>Why are you running for office?</h4>
+<p>Any government in a democratic republic needs opposing views. My philosophy tells me the Wyoming economy isn’t the only thing that could use diversification. I want voters in Johnson County to have more options than just deciding who’s the most conservative, whatever that might mean.</p>
+
+<h4>What challenges and opportunities do you foresee for Wyoming in the coming years?</h4>
+<p>Dealing with classism, racism, labor and healthcare issues. Social indicators of our progress on dealing with these issues are often the symptoms not the disease. For example, it can be challenging and uncomfortable to ask why we have these teen pregnancy rates. Why the suicide rates? Why do any of our citizens want for food or healthcare? Why the divisive politics? Why the fear? What is our common wealth? Challenges are opportunities for improvement.</p>
+
+<h4>If elected, what would be your priorities for Wyoming?</h4>
+<p>My hope is to help us pivot to finding solutions to real problems. To do that we have to identify common ground and false dichotomies. We must insist on balance and equity while encouraging more learning, listening and empathy. I work to find balance in my life, my family, my work. I did the same as a school board member. I’ll do the same as a legislator.</p>
+
+<h4>How do you feel about state and federal expenditures over the past four years?</h4>
+<p>I think many of the state expenditures lately have been shortsighted. The commendable action has been saving some cash. Also it is excellent that so many of our students have clean, safe and welcoming schools to attend. But I have not been impressed with the timing of some decisions around spending on certain government and school facilities. I also know Cheyenne could have been more forward thinking and purposeful with energy conservation in many school facilities. Many measures could have helped districts that are now tightening their belts.</p>
+
+<p>I'd like to see a funding shift at the federal level towards helping states stabilize and improve their own social safety nets, educational and training options, and away from things like unaccountable military spending.</p>
+</div>
+</div>
+</div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+
