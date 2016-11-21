@@ -1,0 +1,28 @@
+"Contributor Name","Recipient Name","Recipient Type","Contribution Type","Date","Amount","City State Zip "
+<tr><td>CLOUD PEAK ENERGY EMPLOYEE PAC (BROOMFIELD)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>200</td><td>BROOMFIELD, CO 80021</td></tr>
+<tr><td>EXXOM MOBIL PAC (IRVING)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>150</td><td>IRVING, TX 75039</td></tr>
+<tr><td>FARMERS EMPLOYEE AGENT POLITICAL ACTION COMMITTEE (CHEYENNE)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>500</td><td>CHEYENNE, WY 82003</td></tr>
+<tr><td>NATIONAL FEDERATION OF INDEPENDENT BUSINESS/WYOMING SAVE AMERICA'S FREE ENTERPRISE TRUST (WASHINGTON)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>100</td><td>WASHINGTON, DC 20004</td></tr>
+<tr><td>PAW POLITICAL ACTION COUNCIL (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>200</td><td>CASPER, WY 82601</td></tr>
+<tr><td>PFIZER PAC (NEW YORK)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>250</td><td>NEW YORK, NY 10017</td></tr>
+<tr><td>TRUCKING INDUSTRY PAC (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>300</td><td>CASPER, WY 82602</td></tr>
+<tr><td>UNION PACIFIC CORPORATION FUND FOR EFFECTIVE GOVERNMENT (WASHINGTON D.C.)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>350</td><td>WASHINGTON D.C., DC 20005</td></tr>
+<tr><td>WILLIAMS COMPANIES, INC (WASHINGTON)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>9/30/2016</td><td>200</td><td>WASHINGTON, DC 20006</td></tr>
+<tr><td>RAMSBOTTOM, SALLY  (BUFFALO)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>8/10/2016</td><td>100</td><td>BUFFALO, WY 82834</td></tr>
+<tr><td>GARRETT, RICHARD  (LANDER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>8/9/2016</td><td>100</td><td>LANDER, WY 82520</td></tr>
+<tr><td>BNSF RAILPAC (FT WORTH)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>8/1/2016</td><td>300</td><td>FT WORTH, TX 76161</td></tr>
+<tr><td>WYOMING CONSTRUCTION COALITION POLITICAL ACTION COMMITTEE (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/29/2016</td><td>AMEND - ADD</td><td>500</td><td>CASPER, WY 82601</td></tr>
+<tr><td>WYOMING CONSTRUCTION COALITION POLITICAL ACTION COMMITTEE (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/29/2016</td><td>AMEND - DELETE</td><td>500</td><td>CASPER, WY 82601</td></tr>
+<tr><td>WYOMING CONSTRUCTION COALITION POLITICAL ACTION COMMITTEE (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/27/2016</td><td>AMEND - ADD</td><td>500</td><td>CASPER, WY 82601</td></tr>
+<tr><td>WY RURAL ELECTRIC ASSN. PAC (CHEYENNE)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/18/2016</td><td>750</td><td>CHEYENNE, WY 82001</td></tr>
+<tr><td>MOTOROLA SOLUTIONS, INC PAC (WASHINGTON)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/13/2016</td><td>250</td><td>WASHINGTON, DC 20004</td></tr>
+<tr><td>BP NORTH AMERICA EMPLOYEE PAC (HOUSTON )</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/8/2016</td><td>100</td><td>HOUSTON , TX 77079</td></tr>
+<tr><td>HART, TOM   (BUFFALO)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/5/2016</td><td>100</td><td>BUFFALO, WY 82834</td></tr>
+<tr><td>ONEOK EMPLOYEES PAC (SHAWNEE MISSION)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/5/2016</td><td>150</td><td>SHAWNEE MISSION, KS 66225</td></tr>
+<tr><td>WYOMING STOCK GROWERS' AG PAC (CHEYENNE)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>7/5/2016</td><td>200</td><td>CHEYENNE, WY 82003</td></tr>
+<tr><td>PAW POLITICAL ACTION COUNCIL (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>6/27/2016</td><td>250</td><td>CASPER, WY 82601</td></tr>
+<tr><td>WY EDUCATION ASSN. PAC FOR EDUCATION (CHEYENNE)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>6/27/2016</td><td>600</td><td>CHEYENNE, WY 82001</td></tr>
+<tr><td>WY REALTORS PAC (CASPER)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>6/27/2016</td><td>500</td><td>CASPER, WY 82601</td></tr>
+<tr><td>MADDEN, MIKE K  (BUFFALO)</td><td>MICHAEL K. MADDEN </td><td>CANDIDATE</td><td>MONETARY</td><td>6/17/2016</td><td>4663</td><td>BUFFALO, WY 82834</td></tr>
+</tbody>
+</table>

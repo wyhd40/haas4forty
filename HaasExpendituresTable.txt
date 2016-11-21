@@ -1,0 +1,20 @@
+<table class="table table-striped">
+  <thead class="thead-inverse">
+  <tr><th>Filer Type</th><th>Filer Name</th><th>Payee</th><th>Purpose</th><th>Date</th><th>City State Zip</th><th>Amount</th></tr>
+  </thead>
+<tbody>
+<tr><td>BUFFALO BULLETIN</td><td>ADVERTISING - NEWSPAPER</td><td>11/1/2016</td><td>BUFFALO, WY 82834</td><td>114</td></tr>
+<tr><td>LINODE.COM</td><td>GRAPHICS/WEBSITE FEES</td><td>10/31/2016</td><td>GALLOWAY, NJ 08205</td><td>10</td></tr>
+<tr><td>BUFFALO BULLETIN</td><td>ADVERTISING - NEWSPAPER</td><td>10/18/2016</td><td>BUFFALO, WY 82834</td><td>114</td></tr>
+<tr><td>LINODE, LLC</td><td>GRAPHICS/WEBSITE FEES</td><td>9/30/2016</td><td>GALLOWAY, NJ 08205</td><td>10</td></tr>
+<tr><td>DJ'S THRIFTWAY</td><td>FOOD AND BEVERAGES</td><td>9/14/2016</td><td>BUFFALO, WY 82834</td><td>47.02</td></tr>
+<tr><td>BUFFALO BULLETIN</td><td>ADVERTISING - NEWSPAPER</td><td>9/13/2016</td><td>BUFFALO, WY 82834</td><td>114</td></tr>
+<tr><td>LINODE, LLC</td><td>GRAPHICS/WEBSITE FEES</td><td>8/31/2016</td><td>GALLOWAY, NJ 08205</td><td>0.02</td></tr>
+<tr><td>THE OFFICE</td><td>CAMPAIGN YARD SIGNS, BUTTONS, PENS, ETC.</td><td>8/30/2016</td><td>BUFFALO, WY 82834</td><td>12.4</td></tr>
+<tr><td>USPS</td><td>POSTAGE</td><td>8/29/2016</td><td>BUFFALO, WY 82834</td><td>2.64</td></tr>
+<tr><td>ACE HARDWARE</td><td>PAINT</td><td>8/20/2016</td><td>BUFFALO, WY 82834</td><td>34.95</td></tr>
+<tr><td>SIGN PARTY</td><td>CAMPAIGN YARD SIGNS, BUTTONS, PENS, ETC.</td><td>8/20/2016</td><td>BUFFALO, WY 82834</td><td>66.2</td></tr>
+<tr><td>2CHECKOUT.COM</td><td>IT SERVICES</td><td>7/5/2016</td><td>COLUMBUS, OH 43228</td><td>11.95</td></tr>
+<tr><td>LINODE, LLC</td><td>GRAPHICS/WEBSITE FEES</td><td>7/3/2016</td><td>GALLOWAY, NJ 08205</td><td>20</td></tr>
+</tbody>
+</table>
